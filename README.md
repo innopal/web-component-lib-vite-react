@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to boilerplate-lib-vite-react 👋</h1>
+<h1 align="center">Welcome to web-component-lib-vite-react 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/panhavsilva/boilerplate-lib-vite-react#readme" target="_blank">
@@ -12,15 +12,15 @@
   </a>
 </p>
 
-> Boilerplate to create library with Vite, Typescript and React.js
+> Web component library built with Vite, Typescript and React.js
 
 <br />
 
 ## :black_nib: Author
 
-:bust_in_silhouette: **Pâmela Vieira da Silva - @panhavsilva**
+:bust_in_silhouette: **Dan Bonab - @innopal**
 
-* Github: [@panhavsilva](https://github.com/panhavsilva)
+* Github: [@innopal](https://github.com/innopal)
 
 ---
 
